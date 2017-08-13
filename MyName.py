@@ -3,5 +3,5 @@
 
 # 2017-08-13 Test file for github workflows
 
-print("My name is RubeRad")
+print("My name is 'RubeRad'")
 
